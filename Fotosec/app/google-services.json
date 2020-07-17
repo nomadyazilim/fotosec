@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89540627490",
+    "firebase_url": "https://fotosecdeneme-84196.firebaseio.com",
+    "project_id": "fotosecdeneme-84196",
+    "storage_bucket": "fotosecdeneme-84196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89540627490:android:459a7dc9a520a54d474e7b",
+        "android_client_info": {
+          "package_name": "com.example.fotosec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89540627490-rva1sf6c2vka6lpdo3rg7dq34sodk09h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4WCbgCnpAhiGsV8RES0t1fwIR_oyC3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89540627490-rva1sf6c2vka6lpdo3rg7dq34sodk09h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
