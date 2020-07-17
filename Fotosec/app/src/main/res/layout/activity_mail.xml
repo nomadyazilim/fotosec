@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".mail"
+    android:background="@drawable/background">
+   <EditText
+       android:id="@+id/mailID"
+       android:background="@drawable/backcolor"
+       android:layout_margin="10dp"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:hint="Email"
+   />
+    <EditText
+        android:id="@+id/subjectID"
+        android:background="@drawable/backcolor"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Konu"
+        />
+
+    <Button
+        android:id="@+id/buttonMail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/backbutton"
+        android:text="gonder" />
+
+
+</LinearLayout>
