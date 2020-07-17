@@ -1,0 +1,2 @@
+# fotosec
+ bitirme projem
